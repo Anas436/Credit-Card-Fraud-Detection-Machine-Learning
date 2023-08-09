@@ -2,7 +2,7 @@
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Credit_Card_Fraud_Detection]
+# Credit_Card_Fraud_Detection
 
 
 ## Contribution Guidelines
