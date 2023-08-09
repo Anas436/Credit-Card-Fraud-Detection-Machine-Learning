@@ -1,8 +1,8 @@
-# chapter-project-repository-template
+# munich-chapter-credit_card_fraud_repository
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+# [Credit_Card_Fraud_Detection]
 
 
 ## Contribution Guidelines
