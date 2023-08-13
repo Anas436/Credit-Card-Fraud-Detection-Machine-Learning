@@ -1,18 +1,27 @@
-# credit-card-fraud-detection-repository
-Use this Repository as a template for creating Local Chapter Repositories
+# ${Omdena \space Munich \space Credit \space Card \space Fraud \space Detection}$
+
+UPDATE: The project is ongoing.
+
+* [Website] TBD
+* [Demonstration] TBD
+
+## ${Problem \space Statement}$
+Credit card fraud stands as a pervasive and concerning challenge in the realm of financial security. With the increasing reliance on electronic transactions, various types of credit card fraud, such as card-not-present fraud, account takeover, and identity theft, have emerged.
+
+These malicious activities compromise individuals' financial well-being, disrupt business operations, and erode consumer trust. The repercussions encompass financial losses, damaged credit scores, legal complexities, and the arduous process of reclaiming one's identity.
+
+In this landscape, developing robust fraud detection mechanisms becomes paramount, employing cutting-edge technologies to preemptively identify fraudulent activities, curbing the multifaceted impacts of this illicit practice.
 
 
-# Credit_Card_Fraud_Detection
+## ${Project \space Goal}$
+The goal of this project is to develop a deep learning model for classifying financial transactions (fraudulant, non fraudulant) with a high accuracy (90%).
 
+## ${Project \space API}$
+The best performing model will be deployed.
 
-## Contribution Guidelines
-- Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
-- If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
-    - Task Folder Naming Convention : _task-n-taskname.(n is the task number)_  ex: task-1-data-analysis, task-2-model-deployment etc.
-    - Create a README.md with a table containing information table about all contributions for the task.
-- If you're contributing for a task, please make sure to store in relavant location and update the README.md information table with your contribution details.
-- Make sure your File names(jupyter notebooks, python files, data sheet file names etc) has proper naming to help others in easily identifing them.
-- Please restrict yourself from creating unnessesary folders other than in 'tasks' folder (as above mentioned naming convention) to avoid confusion. 
+Link: TBD
+
+## ${Project \space Structure}$
 
 ## Project Structure
 
