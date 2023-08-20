@@ -14,7 +14,7 @@ and every model and then provide the best results possible.
 
 ***Note:*** In case of any doubts please ask the task leader, ***Sabheen & Anusha***.
 
-*** Work Status:***
+***Work Status:***
 Done :white_check_mark:
 In Progress :construction:
 
