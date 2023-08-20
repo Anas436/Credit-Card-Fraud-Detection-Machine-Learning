@@ -10,6 +10,8 @@ and every model and then provide the best results possible.
 | ***Serial No.*** | ***Date Started*** | ***Name*** | ***Model Name*** | ***Work Status*** | ***Accuracy*** |
 |-|-|-|-|-|-|
 | 1. | 20-08-2023 | Imane E.M. | Random Forest | In progress :construction: | TBD |
+|-|-|-|-|-|-|
+| 2. | 20-08-2023 | Sabheen Ammad | Logistic Regression/Random Forest | In progress :construction: | TBD |
 
 
 ***Note:*** In case of any doubts please ask the task leader, ***Sabheen & Anusha***.
