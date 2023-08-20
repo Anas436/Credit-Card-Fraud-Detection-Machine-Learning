@@ -1,18 +1,11 @@
-# Task Folder Details
+# ${Task \space Folder \space Details}$
 
-Note : Please Follow the below guidelines to create task folders
-- Task Folder Naming Convention : _task-n-taskname.(n is the task number)_  ex: task-1-data-analysis, task-2-model-deployment etc.
-- All Task folder names should be in chronologial order (from 1 to n)
-- All Task folders should have a README.md file with task Details and task goals along with an info table containing all code/notebook files with their links and information
-- Task folders that contain sub-tasks can create sub folders within the task.
-- __Update the below table explaining the task details.__
 
 ### Task Table
 
-| Task No| Task Name | Details |
-|-|-|-|
-|1|         |         |
-|2|         |         |
-|3|         |         |
-|4|         |         |
-|5|Political Rationale| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
+| ${Task \space No}$ | ${Task \space Name}$ | ${Details}$ | ${Task \space Leader}$ |
+|-|-|-|-|
+|1| task-1-data-collection | Data collection and data cleaning tasks were merged in this task. The data collected was cleaned then sent for the pre-processing | ${Sabheen \space Ammad}$ |
+|2| task-2-data-preprocessing | Data preprocessing and feauture extration were merged in this task. | ${Ahmed \space Hbaeid}$ |
+|3| task-3-model-training-and-testing | Tranining the model on te provided dataset so that the model is well-trained before testing and cross-validation. Then testing and Validating on the test and validation dataset to cross-check the accuracy of the mode | ${Sabheen \space Ammad}$ and ${Anusha \space Ganta}$|
+|4| task-4-model-deployment | Deployment of the model which has been trained, tested and cross-validated | ${Ahmed \space Hbaeid}$ |
