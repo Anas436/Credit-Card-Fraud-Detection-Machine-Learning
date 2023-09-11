@@ -64,4 +64,7 @@ Link: TBD
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
 
+## Resource
 
+- Omdena Local Chapter Link [here](https://omdena.com/chapter-challenges/credit-card-fraud-detection/)
+- Omdena Github Link [here](https://github.com/OmdenaAI/munich-chapter-credit-card-fraud)
