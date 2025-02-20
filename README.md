@@ -1,4 +1,4 @@
-# ${Omdena \space Munich \space Credit \space Card \space Fraud \space Detection}$
+# ${Credit \space Card \space Fraud \space Detection}$
 
 UPDATE: The project is ongoing.
 
@@ -63,8 +63,3 @@ Link: TBD
   - Update the [task-table](./src/tasks/README.md#task-table) whenever a task is created and explain the purpose and goals of the task to others.
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
-
-## Resource
-
-- Omdena Local Chapter Link [here](https://omdena.com/chapter-challenges/credit-card-fraud-detection/)
-- Omdena Github Link [here](https://github.com/OmdenaAI/munich-chapter-credit-card-fraud)
